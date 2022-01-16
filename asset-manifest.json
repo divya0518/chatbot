@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chatbot/static/css/main.52ed0cc1.css",
+    "main.js": "/chatbot/static/js/main.90a38662.js",
+    "static/js/787.cfd8f164.chunk.js": "/chatbot/static/js/787.cfd8f164.chunk.js",
+    "static/media/pills.jpg": "/chatbot/static/media/pills.57b8cdaee3fedd59f9ca.jpg",
+    "static/media/contact.png": "/chatbot/static/media/contact.36c1082f945a25d08420.png",
+    "index.html": "/chatbot/index.html",
+    "main.52ed0cc1.css.map": "/chatbot/static/css/main.52ed0cc1.css.map",
+    "main.90a38662.js.map": "/chatbot/static/js/main.90a38662.js.map",
+    "787.cfd8f164.chunk.js.map": "/chatbot/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ed0cc1.css",
+    "static/js/main.90a38662.js"
+  ]
+}
